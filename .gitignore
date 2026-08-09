@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment & credentials
+.env
+.env.local
+
+# Database & Server logs
+*.log
+*.sqlite
+*.db
+
+# Temporary & Cache files
+*.tmp
+*.bak
