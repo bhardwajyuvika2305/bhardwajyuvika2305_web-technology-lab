@@ -32,6 +32,13 @@ Welcome to the **Web Technology** repository! This repository contains all pract
 
 ---
 
+## 📁 Module-Wise Practical Index
+
+| Module | Practical No. | Topic / Practical Name | Direct Link |
+| :---: | :---: | :--- | :---: |
+| **Module 01** | - | Web Architecture & Protocols Notes | [View Directory](./Module-01-Web-Basics/) |
+| **Module 02** | Practical 01 | Basic HTML Tags & Document Structure | [basic_tags.html](./Module-02-HTML/Practical-01-Basic-Tags.html) |
+
 ## 📂 Repository Directory Structure
 
 ```text
