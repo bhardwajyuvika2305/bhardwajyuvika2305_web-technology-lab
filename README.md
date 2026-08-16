@@ -41,7 +41,7 @@ Welcome to the **Web Technology** repository! This repository contains all pract
 
 ---
 
-[Practical 1 Output]<img width="150" height="200" alt="Screenshot 2026-08-09 113934" src="https://github.com/user-attachments/assets/bd642c83-517c-421f-90a7-dd9cc5082ab8" />
+![Practical 1 Output]<img width="150" height="200" alt="Screenshot 2026-08-09 113934" src="https://github.com/user-attachments/assets/bd642c83-517c-421f-90a7-dd9cc5082ab8" />
 
 ---
 
