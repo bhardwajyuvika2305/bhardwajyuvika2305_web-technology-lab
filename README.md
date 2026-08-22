@@ -43,8 +43,8 @@ Welcome to the **Web Technology** repository! This repository contains all pract
 ---
 
 <img width="150" height="200" alt="PRACTICAL 1" src="https://github.com/user-attachments/assets/2e527297-6d77-44ae-912f-8dd96d2c7156" />
-<img width="477" height="496" alt="PRACTICAL 2(Main Page)" src="https://github.com/user-attachments/assets/6c141669-5b07-4b16-a278-967a31798598" />
-<img width="470" height="494" alt="PRACTICAL 2(About Page)" src="https://github.com/user-attachments/assets/2c92d45f-3f6e-4f3a-ba6d-2af673647e2f" />
+<img width="150" height="200" alt="PRACTICAL 2(Main Page)" src="https://github.com/user-attachments/assets/6c141669-5b07-4b16-a278-967a31798598" />
+<img width="150" height="200" alt="PRACTICAL 2(About Page)" src="https://github.com/user-attachments/assets/2c92d45f-3f6e-4f3a-ba6d-2af673647e2f" />
 
 ---
 
