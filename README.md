@@ -38,10 +38,13 @@ Welcome to the **Web Technology** repository! This repository contains all pract
 | :---: | :---: | :--- | :---: |
 | **Module 01** | - | Web Architecture & Protocols Notes | [View Directory](./Module-01-Web-Basics/) |
 | **Module 02** | Practical 01 | Basic HTML Tags & Document Structure | [Basic_Tags.html](./Module-02-HTML/Practical-01-Basic-Tags.html) |
+| **Module 02** | Practical 02 | HTML Links, Lists, and Table Layouts | [Links_Lists.html](./Module-02-HTML/Practical-02-Links-Lists.html) |
 
 ---
 
-<img width="150" height="200" alt="Screenshot 2026-08-09 113934" src="https://github.com/user-attachments/assets/bd642c83-517c-421f-90a7-dd9cc5082ab8" />
+<img width="150" height="200" alt="PRACTICAL 1" src="https://github.com/user-attachments/assets/2e527297-6d77-44ae-912f-8dd96d2c7156" />
+<img width="477" height="496" alt="PRACTICAL 2(Main Page)" src="https://github.com/user-attachments/assets/6c141669-5b07-4b16-a278-967a31798598" />
+<img width="470" height="494" alt="PRACTICAL 2(About Page)" src="https://github.com/user-attachments/assets/2c92d45f-3f6e-4f3a-ba6d-2af673647e2f" />
 
 ---
 
